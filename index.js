@@ -10,3 +10,4 @@ const result = sum(2, 2);
 console.log(result);
 
 //Какие то изменения
+//New
